@@ -1,7 +1,7 @@
 # 熊之淘寶海淘谷
 
 [![N|Solid](button.png)](https://t.me/tbhtk "Join Telegram Group")
-[![N|Solid](button2.png)](https://t.me/tbhtk "Visit Website")
+[![N|Solid](button2.png)](https://tbhtk.ru "Visit Website")
 
 ![熊之淘寶海淘谷](icon.png "熊之淘寶海淘谷")
 
