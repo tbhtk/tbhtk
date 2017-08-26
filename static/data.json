@@ -8,19 +8,27 @@
       "desc": "<div class=\"subheading\">\n親！你知道淘寶購物原來有返利嗎？\n<br>每次淘寶都有機會慳慳慳…💕\n</div>\n<div class=\"subheading red--text text--lighten-1 mt-2\">\n⭐️儲分到抵現全程「<b>唔需要</b>」支付寶實名\n</div>"
     },
     {
-      "image": "/static/images/alipay-simple-banner.png",
-      "url": "http://1.tbhtk.ru/alipay-hk",
-      "class": "",
-      "color": "light-blue lighten-1",
-      "desc": "<div class=\"subheading\">\n不定時有派錢活動，現時最抵嘅淘寶俾錢方法（聲稱0%手續費），你又用過未？\n</div>\n<div class=\"subheading blue-grey--text text--darken-1 mt-2\">\n💳中銀卡免手續費10倍積分 831完結\n</div>\n"
-    },
-    {
       "image": "/static/images/bad-banner.png",
       "url": "http://1.tbhtk.ru/bad-express",
       "class": "",
       "color": "black",
       "desc": "<div class=\"subheading\">\n為己為人，<b>請勿公開『好』集運及參與統計</b>。以往已經有唔少集運被💡死（時效變慢、服務態變差等）。</div><div class=\"subheading grey--text text--darken-2 mt-2\">\n📋 只會記錄『伏』集運\n"
     },
+    {
+      "image": "/static/images/alipaycn-verify-banner.png",
+      "url": "http://1.tbhtk.ru/alipaycn-verify",
+      "class": "",
+      "color": "light-blue darken-2",
+      "desc": "<div class=\"subheading\">\n支付寶良心發現，推出左「三分鐘實名套餐」，等你唔洗返大陸開戶安坐家中搞掂哂。\n</div>\n<div class=\"subheading red--text text--darken-4 mt-2\">\n❌ 唔需要過關、大陸戶口、電話\n</div>\n"
+    },
+    {
+      "image": "/static/images/alipay-simple-banner.png",
+      "url": "http://1.tbhtk.ru/alipay-hk",
+      "class": "",
+      "color": "light-blue lighten-1",
+      "desc": "<div class=\"subheading\">\n不定時有派錢活動，現時最抵嘅淘寶俾錢方法（聲稱0%手續費），你又用過未？\n</div>\n<div class=\"subheading blue-grey--text text--darken-1 mt-2\">\n💳中銀卡免手續費10倍積分 831完結\n</div>\n"
+    },
+
     {
       "image": "/static/images/tmall-free-banner.png",
       "url": "http://1.tbhtk.ru/tmall-free",
