@@ -28,20 +28,20 @@
       "color": "light-blue lighten-1",
       "desc": "<div class=\"subheading\">\n不定時有派錢活動，現時最抵嘅淘寶俾錢方法（聲稱0%手續費），你又用過未？\n</div>\n<div class=\"subheading blue-grey--text text--darken-1 mt-2\">\n💳中銀卡免手續費10倍積分 831完結\n</div>\n"
     },
-
-    {
-      "image": "/static/images/tmall-free-banner.png",
-      "url": "http://1.tbhtk.ru/tmall-free",
-      "class": "",
-      "color": "red darken-2",
-      "desc": "<div class=\"subheading\"><li>仲係度左買滿¥299免自提運費左度右度❓<li>仲為左慳¥30送貨首重，大熱天時搬餐死❓</div>\n<div class=\"subheading blue-grey--text text--darken-1 mt-2\">\n🛒只要搭件包郵貨就已經可以解決哂\n</div>\n"
-    },
     {
       "image": "/static/images/bear-tmall-banner.png",
       "url": "http://1.tbhtk.ru/tmall-bad-exp",
       "class": "",
       "color": "grey",
       "desc": "<div class=\"subheading\">\n幫襯天貓超巿但用集運嘅話，<span class=\"red--text\">記得一定一定要揀間會聽速遞員電話既集運</span>，否則隨時中伏一波三折收唔到貨！\n</div>\n<div class=\"subheading brown--text text--lighten-1 mt-2\">\n🐻以下係真人(!?)真事被天貓玩殘嘅故事...\n</div>\n"
+    },
+    
+    {
+      "image": "/static/images/tmall-gameover-banner.png",
+      "url": "http://1.tbhtk.ru/tmall-free",
+      "class": "",
+      "color": "red darken-4",
+      "desc": "<div class=\"subheading\"><li>仲係度左買滿¥299免自提運費左度右度❓<li>仲為左慳¥30送貨首重，大熱天時搬餐死❓</div>\n<div class=\"subheading red--text text--darken-4 mt-2\">\n<b>💢2017-09 一件包郵Game Over</b>\n</div>\n"
     }
   ]
 }
