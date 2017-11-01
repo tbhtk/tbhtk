@@ -15,6 +15,13 @@
       "desc": "<div class=\"subheading\">\n為己為人，<b>請勿公開『好』集運及參與統計</b>。以往已經有唔少集運被💡死（時效變慢、服務態變差等）。</div><div class=\"subheading grey--text text--darken-2 mt-2\">\n📋 只會記錄『伏』集運\n"
     },
     {
+      "image": "/static/images/taobao-helper-banner.png",
+      "url": "http://1.tbhtk.ru/taobao-helper",
+      "class": "",
+      "color": "orange",
+      "desc": "<div class=\"subheading\">\n安裝【<b>淘寶助手</b>】，Desktop版搜尋時也可以直接顯示<b class=\"red--text\">雙11「店鋪紅包」</b>，搵<b class=\"red--text\">雙11「店鋪紅包」</b>更方便！\n</div>\n<div class=\"subheading grey--text text--darken-1 mt-2\">\n⚠️Desktop版Chrome及Firefox限定\n</div>"
+    },
+    {
       "image": "/static/images/alipaycn-verify-banner.png",
       "url": "http://1.tbhtk.ru/alipaycn-verify",
       "class": "",
