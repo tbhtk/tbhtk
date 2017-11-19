@@ -6,7 +6,15 @@
       "class": "",
       "color": "pink darken-1",
       "desc":
-        "<div class=\"subheading\">#官集紅包 <br/>#未發貨 #假發貨 <br/>#退款 #投訴</div>"
+        "<div class=\"subheading\">#官集紅包 <br/>#未發貨 #假發貨 <br/>#退款 #投訴</div><div class=\"subheading red--text text--lighten-1 mt-2\">\n📛11月26日前係唔接受未依時發貨投訴架</div>"
+    },
+    {
+      "image": "/static/images/express-complaint.png",
+      "url": "http://1.tbhtk.ru/express-complaint",
+      "class": "",
+      "color": "grey darken-2",
+      "desc":
+        "<div class=\"subheading\">物流記錄好多日都無再更新唔知點做好？😫<br/>可以試下去申訴，有機會申訴後不久就有返更新。</div><div class=\"subheading red--text text--darken-2 mt-2\">\n⚠️建議俾啲耐性，真係好多日無更新先申訴</div>"
     },
     {
       "image": "/static/images/etao-banner.png",
